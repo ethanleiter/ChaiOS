@@ -2,4 +2,4 @@
 
 
 
-It is a bug with 12.3MB html file in iOS and MacOS. It may damage your device, be careful when opening this.
+iOS/MacOS bug exploit with results similar to "Effective Power" iOS crash bug from 2015. It may damage your device, be careful when opening this.
